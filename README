@@ -1,4 +1,4 @@
-Voronoi
+Voronoi (Fortune's Algorithm)
 -----------
 A Python version of http://www.cs.hmc.edu/~mbrubeck/voronoi.html (C++).
 
