@@ -1,0 +1,5 @@
+Voronoi
+-----------
+A Python version of http://www.cs.hmc.edu/~mbrubeck/voronoi.html (C++).
+
+Double-click on canvas to create points and click "Calculate" to draw the Voronoi diagram.
